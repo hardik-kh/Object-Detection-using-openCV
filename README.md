@@ -9,6 +9,10 @@ Working Screenshot
 | Car recognization        | Keyboard recognization          | 
 | ------------- | ---------|
 | <img src ="car.jpg" height = "300" width = "450">     | <img src ="keyboard.jpg" height = "300" width = "450">|
+| Bird recognization        | Chair recognization          |
+| ------------- | ---------|
+| <img src ="bird.jpg" height = "300" width = "450">     | <img src ="chair.jpg" height = "300" width = "450">|
+
 
 
 ### Recognition takes place above 50% confidence level 
