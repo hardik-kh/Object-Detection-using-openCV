@@ -15,6 +15,7 @@ Working Screenshot
 | <img src ="bird.bmp" height = "300" width = "450">     | <img src ="chair.jpg" height = "300" width = "450">|
 
 
+## Concept
+### With the dataset provided recognition takes place above 50% confidence level 
 
-### Recognition takes place above 50% confidence level 
 
